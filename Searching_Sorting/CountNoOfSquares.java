@@ -4,7 +4,7 @@
  *  You are given a number N, you have to output the number of integers less than N in the sample space S.
  */
 
-public class CountSquares {
+public class CountNoOfSquares {
 
 	public static void main(String[] args) {
 		int num=20148714;
